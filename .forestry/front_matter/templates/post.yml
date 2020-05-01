@@ -16,4 +16,5 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/tesit-1.md
 - src/posts/tesit.md
